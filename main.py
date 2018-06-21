@@ -13,9 +13,9 @@ import time
 ## Specify paths for 1) content image 2) style image and 3) generated image
 ##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~##
 
-cImPath = ''
-sImPath = ''
-genImOutputPath = ''
+cImPath = 'examples/in40.png'
+sImPath = 'examples/tar40.png'
+genImOutputPath = 'examples/myout40.png'
 
 ##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~##
 ## Image processing
